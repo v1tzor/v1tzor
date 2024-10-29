@@ -1,10 +1,8 @@
-<div align="center">
-  <img height="250" src="https://avatars.githubusercontent.com/u/116388544?v=4"  />
-</div>
-
 ###
 
-<div align="center">
+<h1 align="left">Hi 👋 My name is Stanislav  and I am 17 years old.</h1>
+
+<div align="left">
   <a href="dev.aleshin@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   <a/>
@@ -16,10 +14,6 @@
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   <a/>
 </div>
-
-###
-
-<h1 align="center">Hi 👋 My name is Stanislav  and I am 17 years old.</h1>
 
 <h3 align="left">👩‍💻About Me</h3>
 
