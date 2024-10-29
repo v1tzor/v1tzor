@@ -14,12 +14,6 @@
 
 <h1 align="center">Hi 👋 My name is Stanislav  and I am 17 years old.</h1>
 
-###
-
-<img src="https://raw.githubusercontent.com/v1tzor/v1tzor/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h3 align="left">👩‍💻About Me</h3>
 
 ###
@@ -32,6 +26,13 @@
   - 📫 How to reach me dev.aleshin@gmail.com</p>
 
 ###
+
+###
+
+<img src="https://raw.githubusercontent.com/v1tzor/v1tzor/output/snake.svg" alt="Snake animation" />
+
+###
+
 
 ## 🛠Language and tools
 
@@ -96,18 +97,18 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=v1tzor&hide_title=false&hide_rank=false&show_icons=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=v1tzor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://streak-stats.demolab.com?user=v1tzor&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://profile-counter.glitch.me/v1tzor/count.svg?"  />
 </div>
 
