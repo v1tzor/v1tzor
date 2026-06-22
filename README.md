@@ -1,6 +1,6 @@
 ###
 
-<h1 align="left">Hi 👋 My name is Stanislav  and I am 18 years old.</h1>
+<h1 align="left">Hi 👋 My name is Stanislav  and I am 19 years old.</h1>
 
 <div align="left">
   <a href="dev.aleshin@gmail.com" target="_blank">
@@ -21,9 +21,8 @@
 
 <p align="left">
   I am a Kotlin Multiplatform developer (Specializing in Android). I try to write the right code with a clean architecture and SOLID approach<br><br>
-  - 🔭 I'm currently working on my own projects, in particular the Study Assistant <br>
-  - 📚 I'm currently learning Kotlin Multiplatform technologies. I am preparing for my exams in order to gain admission to university.<br>
-  - ⚡ In my free time, I like to watch movies and play on the Xbox.<br>
+  - 🔭 I'm currently working on my own projects<br>
+  - 📚 I'm currently learning Kotlin Multiplatform technologies. <br>
   - 📫 How to reach me dev.aleshin@gmail.com</p>
 
 ###
